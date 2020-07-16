@@ -1,3 +1,1 @@
-### Hi there 👋
-
-# Hola I am Vaibhav Pathak
+### Hola, I'M Vaibhav Pathak 👋
