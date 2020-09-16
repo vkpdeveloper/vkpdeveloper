@@ -2,7 +2,7 @@
 
 
 - 🏠 I'M from <b>INDIA</b>
-- 🔨 Working on Java, Flutter, Android, JavaScript, Pytohn, Django, Flask, TypeScript, ReactJS, React Native, NodeJS, DenoJS, C, C++
+- 🔨 Working on Java, Flutter, Android, JavaScript, Python, Django, Flask, TypeScript, ReactJS, React Native, NodeJS, DenoJS, C, C++
 - I'M in 🧡 with <img src="https://img.icons8.com/color/25/000000/flutter.png"/>, <img src="https://img.icons8.com/color/25/000000/python.png"/>
 
 
