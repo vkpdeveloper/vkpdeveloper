@@ -2,4 +2,4 @@
 
 Co-Founder **<a href="https://itday.in">@iTDAY</a>** and CTO **<a href="https://antmascot.com">@Ant Mascot</a>**
 
-Working on something very exciting ✨
+Working on something very exciting ✨, tech looks better at the low level.
